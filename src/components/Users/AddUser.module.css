@@ -1,0 +1,37 @@
+.card {
+	margin: 2rem auto;
+	padding: 1rem;
+	width: 90%;
+	max-width: 40rem;
+	display: flex;
+	justify-content: center;
+}
+
+
+.form{
+	width:90%;
+}
+
+  
+  .form label {
+	display: flex;
+	font-weight: bold;
+	margin-bottom: 0.4rem;
+  }
+  
+  .form input {
+	font: inherit;
+	width: 100%;
+	border: 1px solid #999999;
+	border-radius: 0.1rem;	
+	padding: 0.2rem;
+	margin-bottom: 0.4rem;
+  }
+  
+.form Button{
+	display:block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+
+  }
